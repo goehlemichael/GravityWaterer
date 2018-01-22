@@ -113,10 +113,15 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Connect relay and valve
 
-- There will only be two wires to connect to the valve. It requires disassembling the top of the valve and running them into the connection terminals on the left and right side in the plastic connector.
+- Unscrew and pop off the plastic piece on the top of the valve
 
 ![valve and relay](https://dl.dropboxusercontent.com/s/ooonwq56kyw6a37/20180118_142048.jpg)
+
+- Run the wire through the plastic opening
 ![valve and relay 2](https://dl.dropboxusercontent.com/s/9icf7uzz4dysgdg/20180118_141807.jpg)
+
+- Wire into the terminals on the left and right
+
 ![valve and relay 3](https://dl.dropboxusercontent.com/s/ib51munm7mltxmb/20180118_141929.jpg)
 
 ### Assemble water outputs
