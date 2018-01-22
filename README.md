@@ -100,6 +100,7 @@ and [https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?
 
 1. Connect the Spigot to the water container and seal it up using JB Weld
 2. When its all dry heat up the end of the PVC tubing to get it soft and slide it onto the barb on the spigot. Tighten a clamp onto it. Do the same thing for the couplings.
+![Image of reservior and valve](https://dl.dropboxusercontent.com/s/z36bwj65y41oq7j/20180115_135329.jpg)
 
 ### Assemble delay relay and electric box
 
