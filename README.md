@@ -27,13 +27,14 @@ So assuming we set the timer to 10 seconds moving from left to right. (before th
 | N/C Circuit | Closed  | Closed | Open    | Closed  |
 | N/O Circuit | Open    | Open   | Closed  | Open    |
 
-## Final Result
+## Final result
 
 ![Image of reservior and valve](https://dl.dropboxusercontent.com/s/el61ygrr2me428m/20180118_152428.jpg)
 ![Image of output](https://dl.dropboxusercontent.com/s/6v5zico94f435j6/Output.jpg)
-This is the final product. This one has 10 outputs in series and a 1 gallon reservior fixed about 4 feet above the plants on a shelf. 
+![Image of outputs](https://dl.dropboxusercontent.com/s/w6eepkhk5qq6sqw/20180122_090435.jpg)
+This is the final Assembly. This one has 10 outputs in series and a 1 gallon reservior fixed about 4 feet above the plants on a shelf. 
 
-### Materials (note I'm linking to specific items to reduce ambiguity, you can use whatever materials you would like)
+### Materials I used
 
 [1x 10’ length 3/8" ID , 1/2" OD clear PVC tubing](https://www.amazon.com/gp/product/B000HE5DUQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
@@ -73,6 +74,10 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 [Wooden skewers](https://www.amazon.com/Farberware-Bamboo-Skewers-12-Inch-Natural/dp/B005D6GCSA/ref=sr_1_4?ie=UTF8&qid=1516587345&sr=8-4&keywords=wooden+skewers)
 
+[Loctite](https://www.amazon.com/Loctite-Plastics-Bonding-Activator-681925/dp/B000Y3LHXW/ref=sr_1_1?ie=UTF8&qid=1516630081&sr=8-1&keywords=loctite+plastic)
+
+[JB Weld water weld](https://www.amazon.com/J-B-Weld-JB-8277-Waterweld/dp/B00SPNR8X6/ref=sr_1_2?s=hi&ie=UTF8&qid=1516630119&sr=1-2&keywords=jb+weld+water)
+
 
 ### Tools
 
@@ -86,22 +91,18 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 - Flat head screw driver
 
-- Loctite (optional)
-
-- JB Weld water weld 
-
-## Main steps to build one yourself
+# Main steps to build one yourself
 
 ### Build water reservior
 
-1. Connect the Spigot to the water container and seal it up using JB Weld
+- Connect the Spigot to the water container and seal it up using JB Weld
 ![reservior](https://dl.dropboxusercontent.com/s/z36bwj65y41oq7j/20180115_135329.jpg)
-2. When its all dry heat up the end of the PVC tubing to get it soft and slide it onto the barb on the spigot. Tighten a clamp onto it. Do the same thing for the couplings.
-![reservior](https://dl.dropboxusercontent.com/s/mzp74xfjtlu4z8t/20180116_170207.jpg)
+- When its all dry heat up the end of the PVC tubing to get it soft and slide it onto the barb on the spigot. Tighten a clamp onto it. Do the same thing for the couplings.
+![reservior](https://dl.dropboxusercontent.com/s/f9jt5s4p0g2aua0/20180116_173802.jpg)
 
 ### Assemble delay relay and electric box
 
-1. Wire the relay to a power outlet. If you do not know what you are doing with wiring find someone who does or find some help online. drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
+- Wire the relay to a power outlet. If you do not know what you are doing with wiring find someone who does or find some help online. drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
 
 ![circuit](https://dl.dropboxusercontent.com/s/145bkkecxttzkf8/circuit.png)
 
@@ -110,25 +111,25 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 ### Connect relay and valve
 
-1. There will only be two wires to connect to the valve. It requires disasemblying the top assembly on the valve and running the wire into the connection assembly.
+- There will only be two wires to connect to the valve. It requires disassembling the top assembly on the valve and running the wire into the connection assembly.
 
 ![valve and relay](https://dl.dropboxusercontent.com/s/ooonwq56kyw6a37/20180118_142048.jpg)
 ![valve and relay 2](https://dl.dropboxusercontent.com/s/9icf7uzz4dysgdg/20180118_141807.jpg)
 ![valve and relay 3](https://dl.dropboxusercontent.com/s/ib51munm7mltxmb/20180118_141929.jpg)
 
-### Assemble outputs
+### Assemble water outputs
 
-1. Measure out and ensure that each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
+- Measure out and ensure that each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
 
 ![outputs](https://dl.dropboxusercontent.com/s/3yltzgamlgbqzvv/20180115_163712.jpg)
 ![outputs all](https://dl.dropboxusercontent.com/s/uptzwt5fbdhdxlw/20180114_111429.jpg)
 
 ### Connect Everything Together
 
-1. Connect the couplings together
-2. wrap teflon tape around the threads of the 1/2" NPT to 3/8" barb connections. Fit them to the valves and tighten with a 7/8" wrench and make sure they seal well. connect the tubing and tighten the tubing with hose clamps.
-3. Ensure all hose clamps are tight and there is no leaks.
+- Connect the couplings together
+- wrap teflon tape around the threads of the 1/2" NPT to 3/8" barb connections. Fit them to the valves and tighten with a 7/8" wrench and make sure they seal well. connect the tubing and tighten the tubing with hose clamps.
+- Ensure all hose clamps are tight and there is no leaks.
 
 ### Test and Use
 
-Disconnect the water reservior assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on.
+Disconnect the water reservior assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on. Additionally you can now put the plants on a watering schedule.
