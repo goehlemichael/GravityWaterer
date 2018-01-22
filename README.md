@@ -1,10 +1,10 @@
 ## Water your plants from anywhere
 
-This was developed to automate the watering of plants with gravity. This design utilizes an on/off solenoid valve to control the flow of water being powered by gravity.
+This was developed to automate the watering of plants with gravity. This design utilizes a normally closed on/off solenoid valve which controls water flowing due to gravity.
 
-This setup is ideal for windows or small areas where indoor plants are located and need to be watered frequently. The water reservoir needs to be located higher than the outputs.
+This setup is ideal for window sills, shelves, or any small areas where indoor plants are located and must be watered frequently. The water reservoir should be located higher than the outputs to allow for water flow.
 
-## Reasoning for design
+## The deisgn
 
 The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment we will have to create another way to denergize and close the N/C valve.
 
@@ -88,9 +88,9 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 - JB Weld water weld (works better)
 
-## Main Steps
+## Main steps to build one yourself
 
-### Build Water reservior
+### Build water reservior
 
 1. Connect the Spigot to the water container and seal it up using JB Weld
 2. When its all dry heat up the end of the PVC tubing to get it soft and slide it onto the barb on the spigot. Tighten a clamp onto it. Do the same thing for the couplings.
