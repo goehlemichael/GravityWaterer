@@ -62,21 +62,21 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 [7x Hose clamps](https://www.amazon.com/Adjustable-Stainless-Steel-Clamps-9-16mm/dp/B075HVFTM1/ref=sr_1_11?s=hi&ie=UTF8&qid=1516587228&sr=1-11&keywords=hose+clamps+3%2F8+inch)
 
-[C clamp 1/2" hose mount brackets](https://www.amazon.com/gp/product/B002TIFVWI/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+[1/2" hose mount brackets](https://www.amazon.com/gp/product/B002TIFVWI/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
 [1/2" Phillips head screws](https://www.amazon.com/gp/product/B01MFAIS08/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
 [Quick connect couplings one side](https://www.amazon.com/gp/product/B003M07S46/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
-[quick connect coupling other side](https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+[Quick connect coupling other side](https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
 [Water container](https://www.amazon.com/Gallon-Plastic-Shatter-Proof-Container-Storage/dp/B071WT6WG4/ref=sr_1_10_sspa?s=home-garden&ie=UTF8&qid=1516587392&sr=1-10-spons&keywords=1+gallon+water+container+spigot&psc=1)
 
 [Wooden skewers](https://www.amazon.com/Farberware-Bamboo-Skewers-12-Inch-Natural/dp/B005D6GCSA/ref=sr_1_4?ie=UTF8&qid=1516587345&sr=8-4&keywords=wooden+skewers)
 
-[Loctite](https://www.amazon.com/Loctite-Plastics-Bonding-Activator-681925/dp/B000Y3LHXW/ref=sr_1_1?ie=UTF8&qid=1516630081&sr=8-1&keywords=loctite+plastic)
+[Loctite plastic](https://www.amazon.com/Loctite-Plastics-Bonding-Activator-681925/dp/B000Y3LHXW/ref=sr_1_1?ie=UTF8&qid=1516630081&sr=8-1&keywords=loctite+plastic)
 
-[JB Weld water weld](https://www.amazon.com/J-B-Weld-JB-8277-Waterweld/dp/B00SPNR8X6/ref=sr_1_2?s=hi&ie=UTF8&qid=1516630119&sr=1-2&keywords=jb+weld+water)
+[JB water weld](https://www.amazon.com/J-B-Weld-JB-8277-Waterweld/dp/B00SPNR8X6/ref=sr_1_2?s=hi&ie=UTF8&qid=1516630119&sr=1-2&keywords=jb+weld+water)
 
 
 ### Tools
@@ -102,7 +102,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Assemble delay relay and electric box
 
-- Wire the relay to a power outlet. If you do not know what you are doing with wiring find someone who does or find some help online. drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
+- Wire the relay to a power outlet. Drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
 
 ![circuit](https://dl.dropboxusercontent.com/s/145bkkecxttzkf8/circuit.png)
 
@@ -111,7 +111,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Connect relay and valve
 
-- There will only be two wires to connect to the valve. It requires disassembling the top assembly on the valve and running the wire into the connection assembly.
+- There will only be two wires to connect to the valve. It requires disassembling the top of the valve and running them into the connection terminals on the left and right side.
 
 ![valve and relay](https://dl.dropboxusercontent.com/s/ooonwq56kyw6a37/20180118_142048.jpg)
 ![valve and relay 2](https://dl.dropboxusercontent.com/s/9icf7uzz4dysgdg/20180118_141807.jpg)
@@ -120,6 +120,8 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 ### Assemble water outputs
 
 - Measure out and ensure that each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
+
+- cutting off the tips of the bottle caps make good reducers that you can vary the size depending on your appliation. I then used loctite and jb weld to fit them to the 3 way tee outputs.
 
 ![outputs](https://dl.dropboxusercontent.com/s/3yltzgamlgbqzvv/20180115_163712.jpg)
 ![outputs all](https://dl.dropboxusercontent.com/s/uptzwt5fbdhdxlw/20180114_111429.jpg)
