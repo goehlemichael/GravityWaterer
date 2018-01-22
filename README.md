@@ -35,8 +35,7 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 ### Materials (note I'm linking to specific items to reduce ambiguity, you can use whatever materials you would like)
 
-- 1x 10’ length 3/8" ID , 1/2" OD clear PVC tubing
-(https://www.amazon.com/gp/product/B000HE5DUQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+[1x 10’ length 3/8" ID , 1/2" OD clear PVC tubing](https://www.amazon.com/gp/product/B000HE5DUQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 - 10x 3 way tees (https://www.amazon.com/gp/product/B017UXJQYA/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
 
