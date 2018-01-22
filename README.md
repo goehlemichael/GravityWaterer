@@ -29,6 +29,10 @@ So assuming we set the timer to 10 seconds moving from left to right. (before th
 | N/C Circuit | Closed  | Closed | Open    | Closed  |
 | N/O Circuit | Open    | Open   | Closed  | Open    |
 
+## Final Result
+![Image of reservior and valve](https://dl.dropboxusercontent.com/s/el61ygrr2me428m/20180118_152428.jpg)
+![Image of output](https://dl.dropboxusercontent.com/s/3bhcuvweozbe6vf/20180118_124644.jpg)
+This is the final product. This one has 10 outputs in series and a 1 gallon reservior fixed about 4 feet above the plants on a shelf. 
 
 ### Materials
 
