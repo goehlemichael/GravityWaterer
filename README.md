@@ -126,4 +126,10 @@ and https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?i
 
 ### Connect Everything Together
 
-1. Connect the couplings together. Ensure that all the hoses are hooked up. Fill the water reservior with water and then press the button the wemo or on the app. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on. This will make sure the power is cut as soon as possible and get the realy reset for the next time its turned on.
+1. Connect the couplings together
+2. wrap teflon tape around the threads of the 1/2" NPT to 3/8" barb connections. Fit them to the valves and tighten with a 7/8" wrench and make sure they seal well. connect the tubing and tighten the tubing with hose clamps.
+3. Ensure all hose clamps are tight and there is no leaks.
+
+### Test and Use
+
+Disconnect the water reservior assembly using the quick disconnect. Fill the water reservior with water and then press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on.
