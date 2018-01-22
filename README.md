@@ -131,4 +131,4 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 ### Test and Use
 
-Disconnect the water reservior assembly using the quick disconnect. Fill the water reservior with water and then press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on.
+Disconnect the water reservior assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on.
