@@ -37,41 +37,41 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 [1x 10’ length 3/8" ID , 1/2" OD clear PVC tubing](https://www.amazon.com/gp/product/B000HE5DUQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
-- 10x 3 way tees (https://www.amazon.com/gp/product/B017UXJQYA/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+[10x 3 way tees](https://www.amazon.com/gp/product/B017UXJQYA/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
 
-- 12x plastic caps for reducers (https://www.amazon.com/gp/product/B01MTLEK7F/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
+[12x plastic caps for reducers] (https://www.amazon.com/gp/product/B01MTLEK7F/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
 
-- 1x On/off  N/C solenoid valve (https://www.amazon.com/gp/product/B016YO73E6/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+[1x On/off  N/C solenoid valve] (https://www.amazon.com/gp/product/B016YO73E6/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 
-- 2x 1/2" NPT to 3/8" barb (https://www.amazon.com/gp/product/B003RVV6IO/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+[2x 1/2" NPT to 3/8" barb] (https://www.amazon.com/gp/product/B003RVV6IO/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
 
-- 1x roll Teflon PTFE thread tape (https://www.amazon.com/Teflon-Thread-Seal-Tape-Sealing/dp/B06WW6M7F9/ref=sr_1_1_sspa?s=industrial&ie=UTF8&qid=1516587138&sr=1-1-spons&keywords=teflon+tape&psc=1)
+[1x roll Teflon PTFE thread tape] (https://www.amazon.com/Teflon-Thread-Seal-Tape-Sealing/dp/B06WW6M7F9/ref=sr_1_1_sspa?s=industrial&ie=UTF8&qid=1516587138&sr=1-1-spons&keywords=teflon+tape&psc=1)
 
-- 1x N/c  & N/o relay switch (https://www.amazon.com/gp/product/B00VG9J6SQ/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+[1x N/c  & N/o relay switch] (https://www.amazon.com/gp/product/B00VG9J6SQ/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
-- 1x 10’ Lamp wire (https://www.amazon.com/gp/product/B015YFAPAA/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+[1x 10’ Lamp wire] (https://www.amazon.com/gp/product/B015YFAPAA/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
-- 1x Electric project box (https://www.amazon.com/gp/product/B0714N2737/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+[1x Electric project box] (https://www.amazon.com/gp/product/B0714N2737/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
 
-- 2x Cable glands (https://www.amazon.com/gp/product/B06VSSX599/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
+[2x Cable glands] (https://www.amazon.com/gp/product/B06VSSX599/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 
-- 1x 3/8" OD Spigot (https://www.amazon.com/gp/product/B01BWMR49E/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
+[1x 3/8" OD Spigot] (https://www.amazon.com/gp/product/B01BWMR49E/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 
-- 1x wemo smart socket (https://www.amazon.com/Smart-Enabled-Amazon-Google-Assistant/dp/B01NBI0A6R/ref=sr_1_4?s=hi&ie=UTF8&qid=1516587200&sr=1-4&keywords=wemo+smart+socket)
+[1x wemo smart socket] (https://www.amazon.com/Smart-Enabled-Amazon-Google-Assistant/dp/B01NBI0A6R/ref=sr_1_4?s=hi&ie=UTF8&qid=1516587200&sr=1-4&keywords=wemo+smart+socket)
 
-- 7x Hose clamps (https://www.amazon.com/Adjustable-Stainless-Steel-Clamps-9-16mm/dp/B075HVFTM1/ref=sr_1_11?s=hi&ie=UTF8&qid=1516587228&sr=1-11&keywords=hose+clamps+3%2F8+inch)
+[7x Hose clamps] (https://www.amazon.com/Adjustable-Stainless-Steel-Clamps-9-16mm/dp/B075HVFTM1/ref=sr_1_11?s=hi&ie=UTF8&qid=1516587228&sr=1-11&keywords=hose+clamps+3%2F8+inch)
 
-- C clamp 1/2" hose mount brackets (https://www.amazon.com/gp/product/B002TIFVWI/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+[C clamp 1/2" hose mount brackets] (https://www.amazon.com/gp/product/B002TIFVWI/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
-- 1/2" Phillips head screws (https://www.amazon.com/gp/product/B01MFAIS08/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+[1/2" Phillips head screws] (https://www.amazon.com/gp/product/B01MFAIS08/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
-- Quick connect couplings (I used CPC quick disconnects) (https://www.amazon.com/gp/product/B003M07S46/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+[Quick connect couplings one side]](https://www.amazon.com/gp/product/B003M07S46/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
-and https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+[quick connect coupling other side](https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
-- Water container ( 1 gallon ideally with pre-cut 1" diameter hole for spigot) (https://www.amazon.com/Gallon-Plastic-Shatter-Proof-Container-Storage/dp/B071WT6WG4/ref=sr_1_10_sspa?s=home-garden&ie=UTF8&qid=1516587392&sr=1-10-spons&keywords=1+gallon+water+container+spigot&psc=1)
+[Water container ( 1 gallon ideally with pre-cut 1" diameter hole for spigot)] (https://www.amazon.com/Gallon-Plastic-Shatter-Proof-Container-Storage/dp/B071WT6WG4/ref=sr_1_10_sspa?s=home-garden&ie=UTF8&qid=1516587392&sr=1-10-spons&keywords=1+gallon+water+container+spigot&psc=1)
 
-- Wooden skewers (holds outputs up) (https://www.amazon.com/Farberware-Bamboo-Skewers-12-Inch-Natural/dp/B005D6GCSA/ref=sr_1_4?ie=UTF8&qid=1516587345&sr=8-4&keywords=wooden+skewers)
+[Wooden skewers (holds outputs up)] (https://www.amazon.com/Farberware-Bamboo-Skewers-12-Inch-Natural/dp/B005D6GCSA/ref=sr_1_4?ie=UTF8&qid=1516587345&sr=8-4&keywords=wooden+skewers)
 
 
 ### Tools
