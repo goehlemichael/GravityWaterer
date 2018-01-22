@@ -1,10 +1,6 @@
 ## Water your plants from anywhere
 
-This was developed to automate the watering of plants with gravity. This design utilizes a normally closed on/off solenoid valve which controls water flowing due to gravity.
-
-This setup is ideal for window sills, shelves, or any small areas where indoor plants are located and must be watered frequently. The water reservoir should be located higher than the outputs to allow for water flow.
-
-There is an added bonus in that you can also now tell an AI device like Amazon Echo to water your plants using your voice
+This was developed to automate the watering of plants with gravity. A normally closed, on/off solenoid valve controls water flow due to gravity. It can be easily built with items bought at a hardware store or online.
 
 ## The design
 
@@ -12,7 +8,7 @@ The Wemo smart outlet has the capability of being switched on and off both local
 
 First the wemo switch will turn on. This will energize the valve opening it and allowing the water to flow. At the same time the wemo is turned on the delay on relay timer will begin. After the set time the N/C circuit on the relay will open and the the N/O circuit will close. With the valve on the N/C circuit, the valve will de-energize and close. Using a wemo rule that tells the wemo to always shut off after a minute whenever it turns on causes the wemo to also power down after a minute. Thus restarting the cycle.
 
-Basically when the wemo device is turned on the valve opens allowing the water to flow and water the plants. Then after the set time the relay turns off the valve by cutting its power.
+Basically when the wemo device is turned on the valve opens allowing the water to flow and water the plants. Then after the set time runs out, a relay turns off the valve by cutting its power.
 
 There are 3 main parts:
 
@@ -115,7 +111,11 @@ and https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?i
 
 ### Connect relay and valve
 
-1. Ther will only be two wires to connect to the valve. It requires disasemblying the top assembly on the valve and running the wire into the connection assembly.
+1. There will only be two wires to connect to the valve. It requires disasemblying the top assembly on the valve and running the wire into the connection assembly.
+
+![valve and relay](https://dl.dropboxusercontent.com/s/ooonwq56kyw6a37/20180118_142048.jpg)
+![valve and relay 2](https://dl.dropboxusercontent.com/s/9icf7uzz4dysgdg/20180118_141807.jpg)
+![valve and relay 3](https://dl.dropboxusercontent.com/s/ib51munm7mltxmb/20180118_141929.jpg)
 
 ### Assemble ouputs
 
