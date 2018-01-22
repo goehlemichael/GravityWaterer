@@ -6,7 +6,7 @@ This setup is ideal for window sills, shelves, or any small areas where indoor p
 
 There is an added bonus in that you can also now tell an AI device like Amazon Echo to water your plants using your voice
 
-## The deisgn
+## The design
 
 The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment we will have to create another way to denergize and close the N/C valve.
 
@@ -39,7 +39,7 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 ### Materials (note I'm linking to specific items to reduce ambiguity, you can use whatever materials you would like)
 
-- 1x 10’ length 3/8" ID , 1/2" OD clear PVC tubing (https://www.amazon.com/gp/product/B000HE5DUQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- [1x 10’ length 3/8" ID , 1/2" OD clear PVC tubing]  (https://www.amazon.com/gp/product/B000HE5DUQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 - 10x 3 way tees (https://www.amazon.com/gp/product/B017UXJQYA/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
 
