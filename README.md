@@ -1,10 +1,10 @@
-## Water your plants from anywhere
+## Purpose
 
-This was developed to automate watering plants with gravity. A normally closed, on/off solenoid valve controls water flowing downward. It can easily be built with items bought at a hardware store or online.
+This was developed to automate watering plants with gravity using a wifi outlet connected to the internet. A normally closed, on/off solenoid valve controls water flowing downward. It can easily be built with items bought at a hardware store or online. This is ideal for people who travel frequently but enjoy keeping their plants alive.
 
 ## The design
 
-The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment control value available, we will have to create another way to de-energize and close the N/C (normally closed) valve in a shorter time period.
+The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment of control value available on the wemo, we will have to create another way to de-energize and close the N/C (normally closed) valve faster.
 
 ![design](https://dl.dropboxusercontent.com/s/yewsusirbce8ia5/design.png)
 
