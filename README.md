@@ -10,7 +10,7 @@ The Wemo smart outlet has the capability of being switched on and off both local
 
 First the wemo switch will turn on. This will energize the valve opening it and allowing the water to flow. At the same time the wemo is turned on the delay on relay timer will begin. After the set time the N/C circuit on the relay will open and the the N/O circuit will close. With the valve on the N/C circuit, the valve will de-energize and close. Using a wemo rule that tells the wemo to always shut off after a minute whenever it turns on causes the wemo to also power down after a minute. Thus restarting the cycle.
 
-Basically when the wemo device is turned on the valve opens allowing the water to flow and water the plants.
+Basically when the wemo device is turned on the valve opens allowing the water to flow and water the plants. Then after the set time the relay turns off the valve by cutting its power.
 
 There are 3 main parts:
 
@@ -25,7 +25,7 @@ So assuming we set the timer to 10 seconds moving from left to right. (before th
 | ----------- | ------- | ------ | ------- | ------- |
 | Wemo        | Off     |  On    |  On     |  Off    |
 | Valve       | Closed  | Open   | Closed  | Closed  |
-| relay timer | Off     | Start  | Stop    | Off     |
+| relay timer | Off     | Start  | Stop    | Off     |
 | N/C Circuit | Closed  | Closed | Open    | Closed  |
 | N/O Circuit | Open    | Open   | Closed  | Open    |
 
@@ -74,26 +74,39 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 ### Tools
 
-- Drill
+- Electric drill
 
-- 7/8 wrench
+- 7/8" wrench
 
-- Heat gun / blow dryer
+- Heat gun / hair dryer
 
 - Phillips head Screw driver
 
 - Flat head screw driver
 
-- loctite
+- Loctite (optional)
 
-- JB Weld water weld
+- JB Weld water weld (works better)
 
 ## Main Steps
 
 ### Build Water reservior
 
+1. Connect the Spigot to the water container and seal it up using JB Weld
+2. When its all dry heat up the end of the PVC tubing to get it soft and slide it onto the barb on the spigot. Tighten a clamp onto it. Do the same thing for the couplings.
+
 ### Assemble delay relay and electric box
+
+1. Wire the relay to a power outlet. If you do not know what you are doing with wiring find someone who does or find some help online. drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
+
+### Connect relay and valve
+
+1. Ther will only be two wires to connect to the valve. It requires disasemblying the top assembly on the valve and running the wire into the connection assembly.
 
 ### Assemble ouputs
 
+1. Measure out and ensure that each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
+
 ### Connect Everything Together
+
+1. Connect the couplings together. Ensure that all the hoses are hooked up. Fill the water reservior with water and then press the button the wemo or on the app. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on. This will make sure the power is cut as soon as possible and get the realy reset for the next time its turned on.
