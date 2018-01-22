@@ -65,13 +65,13 @@ This is the final product. This one has 10 outputs in series and a 1 gallon rese
 
 [1/2" Phillips head screws](https://www.amazon.com/gp/product/B01MFAIS08/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
-[Quick connect couplings one side]](https://www.amazon.com/gp/product/B003M07S46/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+[Quick connect couplings one side](https://www.amazon.com/gp/product/B003M07S46/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
 [quick connect coupling other side](https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
 [Water container](1 gallon ideally with pre-cut 1" diameter hole for spigot)] (https://www.amazon.com/Gallon-Plastic-Shatter-Proof-Container-Storage/dp/B071WT6WG4/ref=sr_1_10_sspa?s=home-garden&ie=UTF8&qid=1516587392&sr=1-10-spons&keywords=1+gallon+water+container+spigot&psc=1)
 
-[Wooden skewers (holds outputs up)](https://www.amazon.com/Farberware-Bamboo-Skewers-12-Inch-Natural/dp/B005D6GCSA/ref=sr_1_4?ie=UTF8&qid=1516587345&sr=8-4&keywords=wooden+skewers)
+[Wooden skewers](https://www.amazon.com/Farberware-Bamboo-Skewers-12-Inch-Natural/dp/B005D6GCSA/ref=sr_1_4?ie=UTF8&qid=1516587345&sr=8-4&keywords=wooden+skewers)
 
 
 ### Tools
