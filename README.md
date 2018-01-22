@@ -108,6 +108,11 @@ and https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?i
 
 1. Wire the relay to a power outlet. If you do not know what you are doing with wiring find someone who does or find some help online. drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
 
+![circuit](https://dl.dropboxusercontent.com/s/145bkkecxttzkf8/circuit.png)
+
+![relay in box](https://dl.dropboxusercontent.com/s/9qmpy5jma7v59ge/20180115_170421.jpg)
+
+
 ### Connect relay and valve
 
 1. Ther will only be two wires to connect to the valve. It requires disasemblying the top assembly on the valve and running the wire into the connection assembly.
