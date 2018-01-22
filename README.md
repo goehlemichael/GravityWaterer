@@ -1,14 +1,14 @@
 ## Water your plants from anywhere
 
-This was developed to automate the watering of plants with gravity. A normally closed, on/off solenoid valve controls water flow due to gravity. It can be easily built with items bought at a hardware store or online.
+This was developed to automate watering plants with gravity. A normally closed, on/off solenoid valve controls water flowing downward. It can easily be built with items bought at a hardware store or online.
 
 ## The design
 
-The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment we will have to create another way to denergize and close the N/C valve.
+The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment available, we will have to create another way to denergize and close the N/C valve in a shorter time period.
 
-First the wemo switch will turn on. This will energize the valve opening it and allowing the water to flow. At the same time the wemo is turned on the delay on relay timer will begin. After the set time the N/C circuit on the relay will open and the the N/O circuit will close. With the valve on the N/C circuit, the valve will de-energize and close. Using a wemo rule that tells the wemo to always shut off after a minute whenever it turns on causes the wemo to also power down after a minute. Thus restarting the cycle.
+First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. At the same time the wemo is turned on the delay on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O circuit will close. Since the valve is on the N/C circuit, the valve will de-energize and close after the time runs out.
 
-Basically when the wemo device is turned on the valve opens allowing the water to flow and water the plants. Then after the set time runs out, a relay turns off the valve by cutting its power.
+Basically turn wemo on and valve opens. The water now flows. After the set time runs out, a relay turns off the valve.
 
 There are 3 main parts:
 
@@ -16,7 +16,7 @@ There are 3 main parts:
 - The valve/relay assembly
 - the outputs
 
-So assuming we set the timer to 10 seconds moving from left to right. (before the wemo is turned on and after the wemo is turned off)
+If we set the timer to 10 seconds moving from left to right. (before the wemo is turned on and after the wemo is turned off)
 
 
 | ----------- | Time Off| Time 0 | Time 10 | Time 60 |
@@ -32,7 +32,7 @@ So assuming we set the timer to 10 seconds moving from left to right. (before th
 ![Image of reservior and valve](https://dl.dropboxusercontent.com/s/el61ygrr2me428m/20180118_152428.jpg)
 ![Image of output](https://dl.dropboxusercontent.com/s/6v5zico94f435j6/Output.jpg)
 ![Image of outputs](https://dl.dropboxusercontent.com/s/w6eepkhk5qq6sqw/20180122_090435.jpg)
-This is the final Assembly. This one has 10 outputs in series and a 1 gallon reservior fixed about 4 feet above the plants on a shelf. 
+This is the final Assembly. This one has 10 outputs in series and a 1 gallon reservior placed about 4 feet above the plants on a shelf. 
 
 ### Materials I used
 
@@ -119,9 +119,9 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Assemble water outputs
 
-- Measure out and ensure that each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
+- Measure from the center of each plant and ensure each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
 
-- cutting off the tips of the bottle caps make good reducers that you can vary the size depending on your appliation. I then used loctite and jb weld to fit them to the 3 way tee outputs.
+- cutting off the tips of the bottle caps make good reducers to control the output depending on your application. Use loctite or jb weld to fit them to the 3 way tee outputs.
 
 ![outputs](https://dl.dropboxusercontent.com/s/3yltzgamlgbqzvv/20180115_163712.jpg)
 ![outputs all](https://dl.dropboxusercontent.com/s/uptzwt5fbdhdxlw/20180114_111429.jpg)
@@ -130,6 +130,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 - Connect the couplings together
 - wrap teflon tape around the threads of the 1/2" NPT to 3/8" barb connections. Fit them to the valves and tighten with a 7/8" wrench and make sure they seal well. connect the tubing and tighten the tubing with hose clamps.
+![Valve](https://dl.dropboxusercontent.com/s/gu32mphbz5hd249/20180118_140807.jpg)
 - Ensure all hose clamps are tight and there is no leaks.
 
 ### Test and Use
