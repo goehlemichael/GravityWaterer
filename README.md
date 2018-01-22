@@ -4,13 +4,13 @@ This was developed to automate watering plants with gravity using a wifi outlet 
 
 ## The design
 
-The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment of control value available on the wemo, we will have to create another way to de-energize and close the N/C (normally closed) valve faster.
+While I use a Wemo in this, any IOT power socket will work interchangeably with this design. It is used to turn the power on and off in the circuit. The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment of control available on the wemo, we will have to create another way to de-energize and close the N/C (normally closed) valve faster. For this I used a time delay relay. If there is a IOT socket that can reliably turn on and off in second increments then the delay on relay could also be taken out of the design, however I am not aware of one available.
 
 ![design](https://dl.dropboxusercontent.com/s/yewsusirbce8ia5/design.png)
 
 First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. When the wemo is turned on, the delay on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O (normally open) circuit will close. Since the valve is wired on the N/C circuit, the valve will de-energize and close after the time runs out.
 
-Basically turn wemo on and valve opens. The water now flows. After the set time runs out, a relay turns off the valve.
+Basically, turn wemo on then valve opens and water flows. After the set time runs out, relay turns off valve.
 
 There are 3 main parts:
 
@@ -113,7 +113,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Connect relay and valve
 
-- There will only be two wires to connect to the valve. It requires disassembling the top of the valve and running them into the connection terminals on the left and right side.
+- There will only be two wires to connect to the valve. It requires disassembling the top of the valve and running them into the connection terminals on the left and right side in the plastic connector.
 
 ![valve and relay](https://dl.dropboxusercontent.com/s/ooonwq56kyw6a37/20180118_142048.jpg)
 ![valve and relay 2](https://dl.dropboxusercontent.com/s/9icf7uzz4dysgdg/20180118_141807.jpg)
@@ -137,4 +137,4 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Test and Use
 
-Disconnect the water reservoir assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenever the switch is turned on. Additionally you can now put the plants on a watering schedule.
+Disconnect the water reservoir assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to add a rule on your wemo app that tells the wemo switch to automatically turn off after 1 minute whenever the switch is turned on. Additionally you can now put the plants on a watering schedule.
