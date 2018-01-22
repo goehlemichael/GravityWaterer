@@ -1,10 +1,12 @@
 ## Purpose
 
-This was developed to automate watering plants with gravity using a wifi outlet connected to the internet. A normally closed, on/off solenoid valve controls water flowing downward. It can easily be built with items bought at a hardware store or online. This is ideal for people who travel frequently but enjoy keeping their plants alive.
+This was developed to automate watering plants with gravity using a wifi outlet connected to the internet. A water reservoir is placed above the outputs and a normally closed, on/off solenoid valve controls water flowing downward. It can easily be built with items bought at a hardware store or online. While this design has 10 outputs it can easily be modified for more or less.
 
 ## The design
 
-While I use a Wemo in this, any IOT power socket will work interchangeably with this design. It is used to turn the power on and off in the circuit. The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment of control available on the wemo, we will have to create another way to de-energize and close the N/C (normally closed) valve faster. For this I used a time delay relay. If there is a IOT socket that can reliably turn on and off in second increments then the delay on relay could also be taken out of the design, however I am not aware of one available.
+While I use a Wemo in this, any IOT power socket will work interchangeably with this design. It is used to turn the power on and off in the circuit. The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment of control available on the wemo, we will have to create another way to de-energize and close the N/C (normally closed) valve faster. For this I used a time delay relay. 
+
+Note: If there is an IOT socket that can reliably turn on and off in second increments or less then the delay on relay could be taken out of the design, however I am not aware of one available.
 
 ![design](https://dl.dropboxusercontent.com/s/yewsusirbce8ia5/design.png)
 
