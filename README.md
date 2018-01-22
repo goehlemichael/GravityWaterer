@@ -4,17 +4,17 @@ This was developed to automate watering plants with gravity. A normally closed, 
 
 ## The design
 
-The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment available, we will have to create another way to denergize and close the N/C valve in a shorter time period.
+The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment control value available, we will have to create another way to de-energize and close the N/C (normally closed) valve in a shorter time period.
 
 ![design](https://dl.dropboxusercontent.com/s/yewsusirbce8ia5/design.png)
 
-First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. At the same time the wemo is turned on the delay on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O circuit will close. Since the valve is on the N/C circuit, the valve will de-energize and close after the time runs out.
+First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. When the wemo is turned on, the delay on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O (normally open) circuit will close. Since the valve is wired on the N/C circuit, the valve will de-energize and close after the time runs out.
 
 Basically turn wemo on and valve opens. The water now flows. After the set time runs out, a relay turns off the valve.
 
 There are 3 main parts:
 
-- The water reservior
+- The water reservoir
 - The valve/relay assembly
 - the outputs
 
@@ -31,9 +31,9 @@ If we set the timer to 10 seconds moving from left to right. (before the wemo is
 
 ## Final result
 
-![Image of reservior and valve](https://dl.dropboxusercontent.com/s/el61ygrr2me428m/20180118_152428.jpg)
+![Image of reservoir and valve](https://dl.dropboxusercontent.com/s/el61ygrr2me428m/20180118_152428.jpg)
 ![Image of output](https://dl.dropboxusercontent.com/s/6v5zico94f435j6/Output.jpg)
-This is the final Assembly. This one has 10 outputs in series and a 1 gallon reservior placed about 4 feet above the plants on a shelf.
+This is the final Assembly. This one has 10 outputs in series and a 1 gallon reservoir placed about 4 feet above the plants on a shelf.
 ![Image of outputs](https://dl.dropboxusercontent.com/s/w6eepkhk5qq6sqw/20180122_090435.jpg)
 
 ### Materials I used
@@ -50,19 +50,19 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 [1x roll Teflon PTFE thread tape](https://www.amazon.com/Teflon-Thread-Seal-Tape-Sealing/dp/B06WW6M7F9/ref=sr_1_1_sspa?s=industrial&ie=UTF8&qid=1516587138&sr=1-1-spons&keywords=teflon+tape&psc=1)
 
-[1x N/c  & N/o relay switch](https://www.amazon.com/gp/product/B00VG9J6SQ/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+[1x N/c  & N/O relay switch](https://www.amazon.com/gp/product/B00VG9J6SQ/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
 [1x 10’ Lamp wire](https://www.amazon.com/gp/product/B015YFAPAA/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
 [1x Electric project box](https://www.amazon.com/gp/product/B0714N2737/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
 
-[2x Cable glands](https://www.amazon.com/gp/product/B06VSSX599/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
+[2x PG7 Cable glands](https://www.amazon.com/gp/product/B06VSSX599/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 
 [1x 3/8" OD Spigot](https://www.amazon.com/gp/product/B01BWMR49E/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 
 [1x wemo smart socket](https://www.amazon.com/Smart-Enabled-Amazon-Google-Assistant/dp/B01NBI0A6R/ref=sr_1_4?s=hi&ie=UTF8&qid=1516587200&sr=1-4&keywords=wemo+smart+socket)
 
-[7x Hose clamps](https://www.amazon.com/Adjustable-Stainless-Steel-Clamps-9-16mm/dp/B075HVFTM1/ref=sr_1_11?s=hi&ie=UTF8&qid=1516587228&sr=1-11&keywords=hose+clamps+3%2F8+inch)
+[Hose clamps](https://www.amazon.com/Adjustable-Stainless-Steel-Clamps-9-16mm/dp/B075HVFTM1/ref=sr_1_11?s=hi&ie=UTF8&qid=1516587228&sr=1-11&keywords=hose+clamps+3%2F8+inch)
 
 [1/2" hose mount brackets](https://www.amazon.com/gp/product/B002TIFVWI/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 
@@ -95,14 +95,14 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 # Main steps to build one yourself
 
-### Build water reservior
+### Build water reservoir
 
-- Connect the Spigot to the water container and seal it up using JB Weld
-![reservior](https://dl.dropboxusercontent.com/s/z36bwj65y41oq7j/20180115_135329.jpg)
-- When its all dry heat up the end of the PVC tubing to get it soft and slide it onto the barb on the spigot. Tighten a clamp onto it. Do the same thing for the couplings.
-![reservior](https://dl.dropboxusercontent.com/s/f9jt5s4p0g2aua0/20180116_173802.jpg)
+- Connect the spigot to the water container and seal it using JB Weld
+![reservoir](https://dl.dropboxusercontent.com/s/z36bwj65y41oq7j/20180115_135329.jpg)
+- When the sealant is all dry, heat up the end of the PVC tubing and get it soft so it is easy to slide onto the barb on the spigot. Tighten a clamp onto that. Do the same thing for the couplings.
+![reservoir](https://dl.dropboxusercontent.com/s/f9jt5s4p0g2aua0/20180116_173802.jpg)
 
-### Assemble delay relay and electric box
+### Assemble delay relay and box
 
 - Wire the relay to a power outlet. Drill two holes on each side of the power box and connect the wire glands. Place the relay into the box and run the wire to the valve out one side and the wire to the power socket out another.
 
@@ -123,7 +123,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 - Measure from the center of each plant and ensure each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
 
-- cutting off the tips of the bottle caps make good reducers to control the output depending on your application. Use loctite or jb weld to fit them to the 3 way tee outputs.
+- Cutting off the tips of the bottle caps make good reducers to control the output depending on your application. Use loctite or jb weld to fit them to the 3 way tee outputs.
 
 ![outputs](https://dl.dropboxusercontent.com/s/3yltzgamlgbqzvv/20180115_163712.jpg)
 ![outputs all](https://dl.dropboxusercontent.com/s/uptzwt5fbdhdxlw/20180114_111429.jpg)
@@ -137,4 +137,4 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 ### Test and Use
 
-Disconnect the water reservior assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenver the switch is turned on. Additionally you can now put the plants on a watering schedule.
+Disconnect the water reservoir assembly using the quick disconnect. Fill the water reservior with water and reconnect back inline. Press the button on the wemo switch or inside the wemo app. If you have a home AI assistant like Alexa you can program it to turn on using voice. The valve will open and then close in the set time. Make sure to set a rule on your wemo app that tells the wemo switch to automatically turn off after a minute whenever the switch is turned on. Additionally you can now put the plants on a watering schedule.
