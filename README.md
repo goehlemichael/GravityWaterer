@@ -4,6 +4,8 @@ This was developed to automate the watering of plants with gravity. This design 
 
 This setup is ideal for window sills, shelves, or any small areas where indoor plants are located and must be watered frequently. The water reservoir should be located higher than the outputs to allow for water flow.
 
+There is an added bonus in that you can also now tell an AI device like Amazon Echo to water your plants using your voice
+
 ## The deisgn
 
 The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment we will have to create another way to denergize and close the N/C valve.
