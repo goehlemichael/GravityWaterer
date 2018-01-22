@@ -27,7 +27,7 @@ If we set the timer to 10 seconds moving from left to right. (before the wemo is
 | ----------- | ------- | ------ | ------- | ------- |
 | Wemo        | Off     |  On    |  On     |  Off    |
 | Valve       | Closed  | Open   | Closed  | Closed  |
-| relay timer | Off     | Start  | Stop    | Off     |
+| Relay timer | Off     | Start  | Stop    | Off     |
 | N/C Circuit | Closed  | Closed | Open    | Closed  |
 | N/O Circuit | Open    | Open   | Closed  | Open    |
 
