@@ -6,6 +6,8 @@ This was developed to automate watering plants with gravity. A normally closed, 
 
 The Wemo smart outlet has the capability of being switched on and off both localy and remotely. Due to 1 minute being the smallest increment available, we will have to create another way to denergize and close the N/C valve in a shorter time period.
 
+![design](https://dl.dropboxusercontent.com/s/yewsusirbce8ia5/design.png)
+
 First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. At the same time the wemo is turned on the delay on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O circuit will close. Since the valve is on the N/C circuit, the valve will de-energize and close after the time runs out.
 
 Basically turn wemo on and valve opens. The water now flows. After the set time runs out, a relay turns off the valve.
