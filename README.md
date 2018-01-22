@@ -22,6 +22,7 @@ So assuming we set the timer to 10 seconds moving from left to right. (before th
 
 
 | ----------- | Time Off| Time 0 | Time 10 | Time 60 |
+| ----------- | ------- | ------ | ------- | ------- |
 | Wemo        | Off     |  On    |  On     |  Off    |      
 | ----------- | ------- | ------ | ------- | ------- |
 | Valve       | Closed  | Open   | Closed  | Closed  |
