@@ -117,9 +117,12 @@ and https://www.amazon.com/gp/product/B003M03VOC/ref=oh_aui_detailpage_o06_s00?i
 ![valve and relay 2](https://dl.dropboxusercontent.com/s/9icf7uzz4dysgdg/20180118_141807.jpg)
 ![valve and relay 3](https://dl.dropboxusercontent.com/s/ib51munm7mltxmb/20180118_141929.jpg)
 
-### Assemble ouputs
+### Assemble outputs
 
 1. Measure out and ensure that each output is spread out at the proper interval. You can use JB weld to ensure that the connections are sealed and won't leak.
+
+![outputs](https://dl.dropboxusercontent.com/s/3yltzgamlgbqzvv/20180115_163712.jpg)
+![outputs all](https://www.dropbox.com/s/uptzwt5fbdhdxlw/20180114_111429.jpg)
 
 ### Connect Everything Together
 
