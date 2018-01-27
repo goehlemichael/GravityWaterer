@@ -1,16 +1,16 @@
 ## Purpose
 
-This was developed to automate watering plants with gravity using a wifi outlet connected to the internet. A water reservoir is placed above the outputs and a normally closed, on/off solenoid valve controls water flowing downward. It can easily be built with items bought at a hardware store or online. While this design has 10 outputs it can easily be modified for more or less.
+This was developed to automate watering plants with gravity using a WiFi connected power outlet. A water reservoir is placed at a greater height than the outputs and a normally closed, on/off solenoid valve controls water flowing downward due to gravity. It can easily be built with items bought at a hardware store or online. While this design has 10 outputs it can easily be modified for more or less.
 
 ## The design
 
 While I use a Wemo in this, any IOT power socket will work interchangeably with this design. It is used to turn the power on and off in the circuit. The Wemo smart outlet has the capability of being switched on and off both locally and remotely. Due to 1 minute being the smallest increment of control available on the wemo, we will have to create another way to de-energize and close the N/C (normally closed) valve faster. For this I used a time delay relay. 
 
-Note: If there is an IOT socket that can reliably turn on and off in second increments or less then the delay on relay could be taken out of the design, however I am not aware of one available.
+Note: If there is an IOT socket on the market that can reliably turn on and off the power in smaller time increments than one minute, the delay-on relay could be taken out of the design, however I am not aware of one available.
 
 ![design](https://dl.dropboxusercontent.com/s/yewsusirbce8ia5/design.png)
 
-First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. When the wemo is turned on, the delay on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O (normally open) circuit will close. Since the valve is wired on the N/C circuit, the valve will de-energize and close after the time runs out.
+First the wemo switch will turn on. This will energize the valve and open it, allowing the water to flow. When the wemo is turned on, the delay-on relay timer will begin its countdown. After the set time is reached, the N/C circuit on the relay will open and the the N/O (normally open) circuit will close. Since the valve is wired on the N/C circuit, the valve will de-energize and close after the time runs out.
 
 Basically, turn wemo on then valve opens and water flows. After the set time runs out, relay turns off valve.
 
@@ -35,7 +35,7 @@ If we set the timer to 10 seconds moving from left to right. (before the wemo is
 
 ![Image of reservoir and valve](https://dl.dropboxusercontent.com/s/el61ygrr2me428m/20180118_152428.jpg)
 ![Image of output](https://dl.dropboxusercontent.com/s/6v5zico94f435j6/Output.jpg)
-This is the final Assembly. This one has 10 outputs in series and a 1 gallon reservoir placed about 4 feet above the plants on a shelf.
+This is the final Assembly. It has 10 outputs in series and a 1 gallon reservoir placed about 4 feet above the plants on a shelf.
 ![Image of outputs](https://dl.dropboxusercontent.com/s/w6eepkhk5qq6sqw/20180122_090435.jpg)
 
 ### Materials I used
@@ -95,7 +95,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 
 - Flat head screw driver
 
-# Main steps to build one yourself
+## Main steps to build one yourself
 
 ### Build water reservoir
 
@@ -138,7 +138,7 @@ This is the final Assembly. This one has 10 outputs in series and a 1 gallon res
 ### Connect Everything Together
 
 - Connect the couplings together
-- wrap teflon tape around the threads of the 1/2" NPT to 3/8" barb connections. Fit them to the valves and tighten with a 7/8" wrench and make sure they seal well. connect the tubing and tighten the tubing with hose clamps.
+- wrap teflon tape around the threads of the 1/2" NPT to 3/8" barb connections. Fit them to the valves and tighten with a 7/8" wrench and make sure they seal well. connect the tubing and tighten with hose clamps.
 ![Valve](https://dl.dropboxusercontent.com/s/gu32mphbz5hd249/20180118_140807.jpg)
 - Ensure all hose clamps are tight and there is no leaks.
 
